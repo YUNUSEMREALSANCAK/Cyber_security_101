@@ -1,4 +1,4 @@
-Wi-Fi Şifre Tahmin Programı
+#Wi-Fi Şifre Tahmin Programı#
 Bu Python uygulaması, işletmelerin Wi-Fi şifrelerini tahmin etmek için bir wordlist (kelime listesi) oluşturan basit bir Tkinter tabanlı grafiksel arayüz sunar. Kullanıcı, belirli bir string ifadesini ve sayısal bir aralığı girerek, bu değerlerin kombinasyonlarından oluşan bir wordlist oluşturabilir ve bunu bir .txt dosyası olarak kaydedebilir.
 
 Özellikler
