@@ -1,7 +1,11 @@
 **Wi-Fi Şifre Tahmin Programı**
+
+
 Bu Python uygulaması, işletmelerin Wi-Fi şifrelerini tahmin etmek için bir wordlist (kelime listesi) oluşturan basit bir Tkinter tabanlı grafiksel arayüz sunar. Kullanıcı, belirli bir string ifadesini ve sayısal bir aralığı girerek, bu değerlerin kombinasyonlarından oluşan bir wordlist oluşturabilir ve bunu bir .txt dosyası olarak kaydedebilir.
 
 **Özellikler**
+
+
 Kullanıcı dostu bir grafik arayüz ile kolay kullanım.
 Belirli bir string ve sayısal aralık ile kelime listesi oluşturma.
 Wordlist'i .txt dosyası olarak seçilen konuma kaydetme.
@@ -10,6 +14,8 @@ Tkinter: Python'un yerleşik grafiksel arayüz oluşturma kütüphanesi. Bu küt
 filedialog: Dosya seçimi ve kaydetme işlemleri için Tkinter'in bir modülü olarak kullanıldı.
 
 **Kurulum**
+
+
 Python 3'ün sisteminizde yüklü olduğundan emin olun.
 Bu repoyu yerel makinenize klonlayın:
 bash
@@ -29,6 +35,8 @@ python main.py
 "Wordlist Oluştur ve Kaydet" butonuna tıklayarak kelime listesini oluşturun ve .txt dosyası olarak kaydedin.
 
 **Örnek**
+
+
 Giriş değerleri:
 
 String Girişi: starbucks
@@ -36,10 +44,12 @@ Başlangıç Numarası: 1900
 Bitiş Numarası: 2025
 Oluşan wordlist içeriği:
 
-python
-Kodu kopyala
 starbucks1900
+
 starbucks1901
+
 starbucks1902
+
 ...
+
 starbucks2025
