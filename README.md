@@ -22,11 +22,7 @@ bash
 Kodu kopyala
 git clone https://github.com/YUNUSEMREALSANCAK/Wordlistmaker101.git
 
-**Uygulamayı çalıştırmak için şu komutu kullanın:**
 
-bash
-Kodu kopyala
-python main.py
 
 **Kullanım**
 
